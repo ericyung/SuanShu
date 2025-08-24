@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.numericalmethod.suanshu.analysis.integration.univariate.riemann.RombergTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.258 sec

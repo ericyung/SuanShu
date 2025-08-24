@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.numericalmethod.suanshu.stats.test.distribution.normality.JarqueBeraDistributionTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.718 sec

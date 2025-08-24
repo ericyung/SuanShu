@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.numericalmethod.suanshu.stats.test.regression.linear.heteroskedasticity.HarveyGodfreyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec

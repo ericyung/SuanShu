@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.numericalmethod.suanshu.analysis.integration.univariate.riemann.NewtonCotesTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.468 sec

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.numericalmethod.suanshu.matrix.doubles.matrixtype.dense.DenseMatrixTest
+-------------------------------------------------------------------------------
+Tests run: 44, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 46.204 sec
